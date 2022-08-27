@@ -1,0 +1,27 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx2046b5576b90c73b",
+# 公众号appSecret
+"app_secret": "7d0e09a58ed6b93b3d8ec43e5c01ba03",
+# 模板消息id
+"template_id": "nRY1vqFIGuNXQol0IC8kmxXYTrKxZwP9CbxWKWjcM5s",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oOxBR6R2JN3zvfVLJ24ncyGpsVAg"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "30e20700a73d4a2aa62115d00a91e4bb",
+# 天行数据apikey
+"tian_api": "4e9d44dfa1a050c5621c6f2ff7d15624",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "成都",
+# 生日
+"birthday1": {"name": "钢铁大侠", "birthday": "2003-08-03"},
+# 在一起的日子，格式同上
+"love_date": "1949-10-01",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "",
+# 金句英文
+"note_en": ""
+}
